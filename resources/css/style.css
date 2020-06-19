@@ -1,0 +1,26 @@
+body
+{
+  width: 98%;
+  height: 95%;
+}
+
+a, a:hover
+{
+  text-decoration: none;
+}
+
+.list-group
+{
+  padding-top: 50%;
+  width: 50%;
+}
+
+.logo-img
+{
+  height: 80%;
+}
+
+.flag
+{
+  width: 40px;
+}
