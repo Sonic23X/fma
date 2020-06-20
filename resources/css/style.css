@@ -24,3 +24,8 @@ a, a:hover
 {
   width: 40px;
 }
+
+.list-group-item
+{
+  border: none;
+}
