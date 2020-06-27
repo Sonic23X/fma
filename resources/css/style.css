@@ -1,6 +1,6 @@
 .container
 {
-  margin-top: 15%;
+  margin-top: 12%;
 }
 
 a, a:hover
@@ -27,4 +27,41 @@ a, a:hover
 .list-group-item
 {
   border: none;
+}
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+{
+  .container
+  {
+    margin-top: 70%;
+  }
+}
+
+@media only screen
+and (min-width : 321px)
+{
+  .container
+  {
+    margin-top: 70%;
+  }
+}
+
+@media only screen
+and (max-width : 320px)
+{
+  .container
+  {
+    margin-top: 70%;
+  }
+}
+
+@media only screen
+and (min-width : 1280px)
+{
+  .container
+  {
+    margin-top: 12%;
+  }
 }
