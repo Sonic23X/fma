@@ -1,7 +1,6 @@
-body
+.container
 {
-  width: 98%;
-  height: 95%;
+  margin-top: 15%;
 }
 
 a, a:hover
